@@ -2,7 +2,6 @@
 Hash function written in python using Conway's Game of Life.
 
 ###Usage
-It displays statistics about particular train or group of trains.
 
 ```python gol-hash.py <string to create hash from>```
 
